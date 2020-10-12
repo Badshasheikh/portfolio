@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<body>
+<table width="100%" brder="1">
+<tr><td colspan="2" bgcolor="red"
+<h1><b><big><marquee direction="left">RUBEL SIR ICT COUSING CENTRE, BONPARA ,BORAIGRAM ,NATORE....</marquee></big></b>  </h1> </td></tr>
+<tr>
+<td bgcolor="green" width="25%">
+<b><u>Read Routin of fist year</u></b>
+1.Science </br>
+2.Humanity</br>
+3.Comarch</br></td>
+<td bgcolor="yellow" width="150%" height="300">
+1.Science= 7:30am-8:30am </br>
+2.Humanity= 9:30am-10:30 </br>
+3.Comarch=11:00-12:00 </br>
+</td></tr>
+<tr><td colspan="2" bgcolor="red">
+<center>
+ICT Teach Us <b><u>{MD: Rubel Sir}</u></b></br>
+ Make by <i><p style="color:white;">Badsha Sheikh</p>
+</center></td></tr>
 
-You can use the [editor on GitHub](https://github.com/Badshasheikh/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Badshasheikh/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
